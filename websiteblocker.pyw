@@ -1,9 +1,9 @@
 import time
 from datetime import datetime as dt
 
-host_path = "C:/Windows/Systems32/drivers/etc/hosts"
+host_path = "C:/Windows/System32/drivers/etc/hosts"
 redirect = "127.0.0.1"
-website_list = ["www.aamulehti.fi"]
+website_list = ["www.aamulehti.fi", "www.iltalehti.fi", "www.iltasanomat.fi"]
 print("Alakaa")
 
 while True:
