@@ -3,7 +3,7 @@ from datetime import datetime as dt
 
 host_path = "C:/Windows/System32/drivers/etc/hosts"
 redirect = "127.0.0.1"
-website_list = ["www.aamulehti.fi", "www.iltalehti.fi", "www.iltasanomat.fi"]
+website_list = ["www.aamulehti.fi", "www.iltalehti.fi", "www.iltasanomat.fi", "www.instagram.com", "www.hs.fi", "www.is.fi"]
 print("Alakaa")
 
 while True:
